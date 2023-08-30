@@ -1,0 +1,74 @@
+[
+   {
+      "id": 1,
+      "nombre": "Cartucho 9mm",
+      "precio": 0.5,
+      "imagen": "https://c8.alamy.com/compes/bedcw2/balas-de-9mm-aislado-sobre-un-fondo-blanco-bedcw2.jpg",
+      "categoria": "UCC",
+      "descripcion": "Cartucho de calibre 9mm para pistolas y subfusiles."
+   },
+   {
+      "id": 2,
+      "nombre": "Cartucho 5.56mm",
+      "precio": 0.3,
+      "imagen": "https://us.123rf.com/450wm/rangersmith14/rangersmith141702/rangersmith14170200039/72827759-tama%C3%B1os-bala-de-rifle-de-5-56-mm-dos-disparos-sobre-un-fondo-blanco.jpg",
+      "categoria": "UCC",
+      "descripcion": "Cartucho de calibre 5.56mm utilizado en rifles de asalto y armas similares."
+   },
+   {
+      "id": 3,
+      "nombre": "Cartucho 7.62mm",
+      "precio": 0.4,
+      "imagen": "https://c8.alamy.com/compes/w87y9t/cartucho-de-7-62-mm-militar-sobre-un-fondo-blanco-concepto-de-arma-w87y9t.jpg",
+      "categoria": "UCC",
+      "descripcion": "Cartucho de calibre 7.62mm comúnmente usado en rifles de combate."
+   },
+   {
+      "id": 4,
+      "nombre": "Cartucho 45 ACP",
+      "precio": 0.6,
+      "imagen": "https://thumbs.dreamstime.com/z/bala-del-semiwadcutter-de-acp-aislada-en-un-fondo-blanco-63875693.jpg",
+      "categoria": "UCC",
+      "descripcion": "Cartucho de calibre .45 ACP ampliamente utilizado en pistolas semiautomáticas."
+   },
+   {
+      "id": 5,
+      "nombre": "Cartucho 12 Gauge",
+      "precio": 1.2,
+      "imagen": "https://previews.123rf.com/images/sirichai2514/sirichai25141405/sirichai2514140500116/27973573-mont%C3%B3n-de-cartuchos-de-caza-para-la-escopeta-calibre-12.jpg",
+      "categoria": "UCC",
+      "descripcion": "Cartucho de escopeta de calibre 12 utilizado para caza y tiro deportivo."
+   },
+   {
+      "id": 6,
+      "nombre": "Cartucho 30-06",
+      "precio": 1,
+      "imagen": "https://c8.alamy.com/compes/fybp4w/5-30-06-calibre-rifle-de-caza-cartuchos-en-una-fila-sobre-un-fondo-blanco-fybp4w.jpg",
+      "categoria": "UCC",
+      "descripcion": "Cartucho de calibre 30-06 ampliamente utilizado en rifles de caza mayor."
+   },
+   {
+      "id": 7,
+      "nombre": "Cartucho 308 Winchester",
+      "precio": 1.1,
+      "imagen": "https://c8.alamy.com/compes/w87xb8/cartuchos-de-caza-de-calibre-sobre-un-fondo-blanco-308-win-w87xb8.jpg",
+      "categoria": "UCC",
+      "descripcion": "Cartucho de calibre .308 Winchester utilizado en rifles de caza y tiro deportivo."
+   },
+   {
+      "id": 8,
+      "nombre": "Cartucho .22",
+      "precio": 0.2,
+      "imagen": "https://www.pepegioda.com/wp-content/uploads/2022/04/00001.jpg",
+      "categoria": "UC",
+      "descripcion": "Cartucho de calibre .22 ampliamente utilizado en rifles y pistolas para práctica de tiro y caza menor."
+    },
+    {
+      "id": 9,
+      "nombre": "Cartucho .32",
+      "precio": 0.3,
+      "imagen": "https://www.pepegioda.com/wp-content/uploads/2020/08/WebMagtech-.32-SWL-LRN-98-Grains.jpg",
+      "categoria": "UC",
+      "descripcion": "Cartucho de calibre .32 utilizado en diversas pistolas y revólveres para defensa personal y tiro deportivo."
+    }    
+]

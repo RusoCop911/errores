@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    max-width: 100%;
+}
+
+.brand {
+    margin: 5px 0 3px 30px;
+}
+
+.NavLink {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.NavLink a {
+    padding: 5px;
+    color: azure;
+}
+
+.NavLink a:hover {
+    color: rgb(249, 157, 157);
+}
+
+.carrito {
+    display: flex;
+    justify-content: center;
+}
